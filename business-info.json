@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0",
+  "name": "Foto Carlos C.A.",
+  "legal_name": "Foto Carlos C.A.",
+  "brand_name": "Foto Carlos",
+  "category": "Laboratorio Fotográfico Profesional y Estudio de Impresión",
+  "tagline": "El lugar ideal donde imprimir una fotografía con calidad de Laboratorio Fotográfico profesional en Venezuela.",
+  "description": "Foto Carlos C.A. es un estudio y laboratorio fotográfico de referencia ubicado en Barquisimeto, Estado Lara, Venezuela. Especialistas en impresión fotográfica profesional de alta durabilidad, restauraciones fotográficas digitales de fotos antiguas o dañadas, impresión de alto volumen para fotógrafos profesionales y paquetes de grado integrales para graduandos. Recepción de archivos digitales desde cualquier ciudad y envíos seguros a toda Venezuela.",
+  "location": {
+    "city": "Barquisimeto",
+    "state": "Lara",
+    "country": "Venezuela",
+    "country_code": "VE",
+    "google_maps_url": "https://maps.app.goo.gl/bMb65bwpNv4YEiWQ7"
+  },
+  "area_served": [
+    "Barquisimeto",
+    "Estado Lara",
+    "Venezuela (Envíos nacionales)"
+  ],
+  "contact": {
+    "phone": "+584125525262",
+    "whatsapp_display": "+58 412-5525262",
+    "whatsapp_url": "https://wa.me/584125525262?text=Hola%20Foto%20Carlos,%20me%20gustar%C3%ADa%20informaci%C3%B3n%20sobre%20impresi%C3%B3n%20y%20servicios%20fotogr%C3%A1ficos.",
+    "email": "fotocarlosca@gmail.com",
+    "instagram": "https://www.instagram.com/fotocarlosca/?hl=en"
+  },
+  "remote_file_reception": {
+    "enabled": true,
+    "channels": [
+      "WhatsApp (documento sin compresión)",
+      "Correo electrónico (fotocarlosca@gmail.com)",
+      "Enlaces en la nube (Google Drive, WeTransfer, Dropbox)"
+    ],
+    "national_shipping": "Envíos asegurados a todo el territorio nacional de Venezuela."
+  },
+  "services": [
+    {
+      "id": "impresion-fotografica-profesional",
+      "name": "Impresión Fotográfica Profesional",
+      "summary": "Copias fotográficas en papel profesional de alta durabilidad con calibración cromática de laboratorio y acabados mate, lustre o brillo.",
+      "audience": "Particulares, artistas visuales, diseñadores y coleccionistas."
+    },
+    {
+      "id": "restauraciones-fotograficas",
+      "name": "Restauraciones Fotográficas",
+      "summary": "Recuperación digital meticulosa de fotografías antiguas, rasgadas, manchadas, descoloridas o afectadas por humedad y el paso del tiempo, incluyendo reconstrucción de detalles y colorización opcional.",
+      "audience": "Familias, archivos históricos y preservación de memoria."
+    },
+    {
+      "id": "impresion-alto-volumen-fotografos",
+      "name": "Impresiones Fotográficas de Alto Volumen para Fotógrafos Profesionales",
+      "summary": "Flujo de trabajo optimizado para estudios y fotógrafos de bodas, retratos y eventos. Tarifas preferenciales por volumen, consistencia de color calibrada y atención prioritaria.",
+      "audience": "Fotógrafos profesionales, estudios fotográficos y agencias."
+    },
+    {
+      "id": "paquetes-de-grado",
+      "name": "Paquetes de Grado para Graduandos",
+      "summary": "Soluciones completas para actos de grado universitarios y escolares: retratos de estudio, impresión de alta calidad, enmarcado artesanal y recuerdos de graduación.",
+      "audience": "Graduandos universitarios, promociones escolares y familiares."
+    }
+  ],
+  "search_intent_keywords": [
+    "donde imprimir una fotografia",
+    "imprimir fotos cerca de mi",
+    "impresion fotografica barquisimeto",
+    "restauracion de fotos antiguas venezuela",
+    "laboratorio fotografico profesional en venezuela",
+    "impresiones fotograficas de alto volumen para fotografos profesionales",
+    "paquetes de grado para graduandos"
+  ],
+  "faq": [
+    {
+      "question": "¿Dónde imprimir una fotografía en Venezuela con calidad profesional?",
+      "answer": "En Foto Carlos C.A., laboratorio fotográfico ubicado en Barquisimeto, Estado Lara, imprimimos tus fotografías en papel profesional con calibración de color de estudio y realizamos envíos seguros a toda Venezuela."
+    },
+    {
+      "question": "¿Cómo enviar mis fotos para imprimir o restaurar desde otra ciudad?",
+      "answer": "Puedes enviar tus archivos digitales desde cualquier lugar de Venezuela por WhatsApp (+58 412-5525262 como documento), correo electrónico (fotocarlosca@gmail.com) o mediante un enlace de Google Drive / WeTransfer. Para restauraciones de fotos físicas, también puedes acercarte a nuestra sede en Barquisimeto o enviar una digitalización de alta resolución."
+    },
+    {
+      "question": "¿Ofrecen precios al mayor para fotógrafos profesionales?",
+      "answer": "Sí. Contamos con un servicio especializado de impresiones fotográficas de alto volumen para fotógrafos profesionales y estudios, con tarifas preferenciales por volumen, perfiles de color consistentes y entrega ágil para bodas y eventos."
+    },
+    {
+      "question": "¿Qué incluyen los paquetes de grado para graduandos?",
+      "answer": "Nuestros paquetes de grado integran sesión o recepción de archivo fotográfico, retoque profesional, impresiones en distintos formatos, enmarcado de lujo y recuerdos de graduación personalizados con despacho local y nacional."
+    }
+  ]
+}
